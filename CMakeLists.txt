@@ -9,6 +9,8 @@ add_executable(ES3 ES3/main.cpp )
 add_executable(ES4 ES4/main.cpp )
 add_executable(ES5 ES5/main.cpp )
 add_executable(ES6 ES6/main.cpp )
+add_executable(ES7 ES7/main.cpp )
+
 
 
 
